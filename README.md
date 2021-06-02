@@ -5,6 +5,7 @@
 🌱 I'm currently learning software development.
 _[Here's what i'm learning and the projects i've done](https://github.com/danimuller20/trybe-exercises)_
 
+### GitHub status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danimuller20)](https://github.com/danimuller20/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimuller20&layout=compact)](https://github.com/danimuller20/github-readme-stats)
 
@@ -22,7 +23,7 @@ _[Here's what i'm learning and the projects i've done](https://github.com/danimu
 <img src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-64.png" alt="icone mySQL" width="80px"> <img src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-64.png" alt="icone mongoDB" width="80px">  
 
 
-See more about me in my [linkedin](https://www.linkedin.com/in/daniela-muller-8b2415154/)! 
+### See more about me in my [linkedin](https://www.linkedin.com/in/daniela-muller-8b2415154/)! 
 
 <!--
 **danimuller20/danimuller20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
