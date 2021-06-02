@@ -9,10 +9,14 @@ _[Here's what i'm learning and the projects i've done](https://github.com/danimu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimuller20&layout=compact)](https://github.com/danimuller20/github-readme-stats)
 
 ### Agile
-<img src="https://pics.freeicons.io/uploads/icons/png/18077689401530103326-64.png" alt="icone trello" width="60px"> 
+<img src="https://pics.freeicons.io/uploads/icons/png/18077689401530103326-64.png" alt="icone trello" width="60px">
+
+### Version control
+<img src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-64.png" alt="icone git" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/9484177861548141924-64.png" alt="icone gitHub" width="70px">
 
 ### Front-End
-<img src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" alt="icone html" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" alt="icone css" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/5616045581536080151-64.png" alt="icone javaScript" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-64.png" alt="icone react" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-64.png" alt="icone react router" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-64.png" alt="icone redux" width="70px">
+<img src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" alt="icone html" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" alt="icone css" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/19681752361536207300-64.png" alt="icone redux" width="60px">
+<img src="https://pics.freeicons.io/uploads/icons/png/5616045581536080151-64.png" alt="icone javaScript" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-64.png" alt="icone react" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-64.png" alt="icone react router" width="70px"> <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-64.png" alt="icone redux" width="70px">
 
 ### Back-End
 <img src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-64.png" alt="icone mySQL" width="80px"> <img src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-64.png" alt="icone mongoDB" width="80px">  
