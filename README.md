@@ -1,5 +1,5 @@
 ### Hi there 👋 
-< align="right" img width="20%" src="https://github.com/danimuller20/githubcat/blob/main/unnamed.png?raw=true" alt="Meu avatar do git hub"/>
+<img align="right" width="20%" src="https://github.com/danimuller20/githubcat/blob/main/unnamed.png?raw=true" alt="Meu avatar do git hub"/>
 
 <div align="left"><img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" width="15px"> I'm a programming student at Trybe <br>
 🌱 I'm currently learning software development. _[Here's what i'm learning and the projects i've done](https://github.com/danimuller20/trybe-exercises)_</div>
