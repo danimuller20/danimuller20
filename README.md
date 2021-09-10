@@ -2,7 +2,7 @@
 <img align="right" width="30%" src="https://github.com/danimuller20/githubcat/blob/main/unnamed.png?raw=true" alt="Meu avatar do git hub"/>
 
 <div align="left"><p><img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" width="15px"> I'm a programming student at Trybe.</p>
-<p>🌱 I'm currently learning software development. <a href="https://github.com/danimuller20/trybe-exercises" target="_blank">Here's what i'm learning and the projects i've done</a></p>
+<p>🌱 Hello, my name is Daniela. I'm currently learning software development. <a href="https://github.com/danimuller20/trybe-exercises" target="_blank">Here's what i'm learning and the projects i've done</a></p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
