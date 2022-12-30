@@ -2,7 +2,7 @@
 <img align="right" width="30%" src="https://github.com/danimuller20/githubcat/blob/main/unnamed.png?raw=true" alt="Meu avatar do git hub"/>
 
 <div align="left"><p><img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" width="15px"> Hello, my name is Daniela. I studied programming at Trybe. 🌱<a href="https://github.com/danimuller20/trybe-exercises" target="_blank"> Here are the projects</a> that I developed during the course.</p>
-<p> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQH-avpwJ5JRFw/company-logo_200_200/0/1656359123446?e=2147483647&v=beta&t=aJszIipAWdKqQhFbOacmLQOsEXujR1ELUdxTR58lXgw" width="15px"> I’m currently working on <a href="https://jungledevs.com/" target="_blank">Jungle Devs</a></p>
+<p> <img src="https://media.licdn.com/dms/image/C4D0BAQHcs4z94d8nwQ/company-logo_200_200/0/1668714688844?e=1680739200&v=beta&t=5Jlsk3y40bMQYgGTvJ5-seU9WGID7wsZhzSWStGFg6k" width="15px"> I’m currently working on <a href="https://olby.com/" target="_blank">Olby</a></p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
