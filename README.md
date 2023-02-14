@@ -30,6 +30,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danimuller20&theme=flag-india)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimuller20&theme=flag-india&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+5 - Selecione o campo desejado, como exemple temos o `input` <span style="color: yellow; background: gray; border-radius: 2px; padding: 0 2px">no campo _Key_</span> coloque o nome do campo. <span style="color: orange; background: gray; border-radius: 2px; padding: 0 2px">No campo _Type_</span> é possível escolher o tipo que o input vai receber. Após finalizar basta <span style="color: greenyellow; background: gray; border-radius: 2px; padding: 0 2px">clicar no botão _Save_</span>. Crie todos os campos necessários.
 <!--
 **danimuller20/danimuller20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
